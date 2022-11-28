@@ -1,0 +1,18 @@
+{
+    "name": "GinkoBus Progressive app",
+    "shortName": "GinkoBus",
+    "icons": [
+        {
+            "src": "icons/maskable_icon.png",
+            "type": "image/png",
+            "sizes": "274x274",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        }
+    ],
+    "start_url": ""
+}
